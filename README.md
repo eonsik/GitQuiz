@@ -1,4 +1,7 @@
 # GitQuiz
 //
-Kevin
-Eon
+Kevin Dumitrescu
+Eon Sik Jeong
+//
+
+PULL
